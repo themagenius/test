@@ -1,5 +1,5 @@
 {
-    "name": "magento/magento-cloud-docker",
+    "name": "themagenius/magento-cloud-docker",
     "description": "Magento Cloud Docker",
     "type": "magento2-component",
     "version": "1.2.0",
